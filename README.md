@@ -5,3 +5,4 @@
 4. git log
 5. git branch
 6. git branch <name_branch>
+еще раз

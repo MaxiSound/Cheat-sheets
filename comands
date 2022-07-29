@@ -2,3 +2,6 @@
 1. git init
 2. git status
 3. git init
+4. git log
+5. git branch
+6. git branch <имя ветки>
